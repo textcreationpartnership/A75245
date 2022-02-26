@@ -1,0 +1,1035 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the days of the going out of all the carriers, waggoners, and stage-coaches, that come to London, Westminster and Southwark, from all parts of England and Wales also of fairs and roads.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75245</idno>
+            <idno type="STC">Wing A268A</idno>
+            <idno type="STC">ESTC R227053</idno>
+            <idno type="EEBO-CITATION">43665007</idno>
+            <idno type="OCLC">ocm 43665007</idno>
+            <idno type="VID">171868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2595:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the days of the going out of all the carriers, waggoners, and stage-coaches, that come to London, Westminster and Southwark, from all parts of England and Wales also of fairs and roads.</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by G. Conyers, at the Ring in Little-Brittain,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1690 and 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication information from colophon; dates of publication suggested by Wing (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>Signatures: a⁶, b⁴.</note>
+                  <note>"Price 2 d."</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transportation --  Great Britain --  Timetables --  Early works to 1800.</term>
+               <term>Carriers --  Great Britain --  Timetables --  Early works to 1800.</term>
+               <term>Fairs --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171868:1"/>
+            <head>An Account of the Days of the going out of all the <hi>Carriers, Waggoners,</hi> and <hi>Stage-Coaches,</hi> that come to <hi>London, Weſtminſter</hi> and <hi>Southwark,</hi> from all Parts of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales:</hi> Alſo of <hi>Fairs</hi> and <hi>Roads.</hi>
+            </head>
+            <div type="part">
+               <div type="section">
+                  <head>A</head>
+                  <p>
+                     <hi>ABington</hi> Waggon, White Horſe in <hi>Friday-ſtreet,</hi> ſat. and Saracen's Head in <hi>Friday-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Acton</hi> Coach, Talbot in the <hi>Strand</hi> every day.</p>
+                  <p>
+                     <hi>Agmondeſham</hi> Waggon, Angel in <hi>Holborn,</hi> tu. and ſat.</p>
+                  <p>
+                     <hi>Aldenham</hi> Waggon, White Horſe by <hi>Fleet-ditch,</hi> fri.</p>
+                  <p>St. <hi>Albans</hi> Waggon, Cock in <hi>Alderſgate-ſtreet,</hi> mon. wed. and frid. and the Coach, Bell in <hi>Alderſgate-ſtreet,</hi> tueſ. thurſ. and ſatur.</p>
+                  <p>
+                     <hi>Ampthil</hi> Carrier, Pewter Platter in St. <hi>John's-ſtreet,</hi> and the Waggon, Cock in <hi>Alderſgate-ſtreet,</hi> wed.</p>
+                  <p>
+                     <hi>Andover</hi> Waggon, King's-Arms on <hi>Holborn-bridge,</hi> th.</p>
+                  <p>
+                     <hi>Arundel</hi> — Queen's-Head in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Aſhby-de-la-Zouch</hi> Carrier, Ax in <hi>Aldermanbury,</hi> mon:</p>
+                  <p>
+                     <hi>Aſhford</hi> Carrier, Star on <hi>Fiſh-ſtreet-hill,</hi> thurſ.</p>
+                  <p>
+                     <hi>Atterſon</hi> Carrier, Caſtle at <hi>Smithfield-barrs,</hi> mon.</p>
+                  <p>
+                     <hi>Aylesbury</hi> Waggon, Lamb, backſide of St. <hi>Clements,</hi> fri. Saracen's-head on <hi>Snow-hill,</hi> wed. George by <hi>Hol<g ref="char:EOLhyphen"/>born-conduit,</hi> thurſ. Crown in <hi>Holborn,</hi> the Coach, mon: wed. fri. Black Swan in <hi>Holborn,</hi> the Coach, tueſ. ſat.</p>
+               </div>
+               <div type="section">
+                  <head>B</head>
+                  <p>
+                     <hi>BArnet</hi> Coach, from the Swan with two Necks in St. <hi>John</hi>'s-<hi>ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Bakewel</hi> Carrier, Bloſſoms-Inn, fri. once in 3 weeks.</p>
+                  <p>
+                     <hi>Baſingſtoke</hi> Waggon, from the Bell-Savage on <hi>Lud<g ref="char:EOLhyphen"/>gate-hill,</hi> ſat. King's-Arms on <hi>Holborn-bridge,</hi> thurſ. Sarcen's-head on <hi>Snow-hill,</hi> fri. Coach, King's-Head in the <hi>Strand,</hi> tueſ. thurſ. ſatur.</p>
+                  <p>
+                     <hi>Battle</hi> Carrier, Spur in <hi>Southwark,</hi> thurſ.</p>
+                  <pb n="2" facs="tcp:171868:2"/>
+                  <p>
+                     <hi>Barkin</hi> Coach, 3 Nuns without <hi>Aldgate,</hi> every day.</p>
+                  <p>
+                     <hi>Baldock</hi> Waggon, Cock in <hi>Old-ſtreet,</hi> tueſ. and fri. Red Lion in <hi>Red-croſs-ſtreet,</hi> wed. and ſat.</p>
+                  <p>
+                     <hi>Bath</hi> and <hi>Briſtol</hi> Coach, Bell in the <hi>Strand,</hi> mon. wed. fri. Swan near <hi>Somerſet-houſe,</hi> mon. tueſ. Carrier, 3 Cups in <hi>Bread-ſtreet,</hi> ſat. Talbot in the <hi>Strand;</hi> mon. thurſ. Coach, Chequer near <hi>Charing-croſs,</hi> tueſ.</p>
+                  <p>
+                     <hi>Banbury</hi> Carrier, Saracen's-head in <hi>Carter-lane,</hi> th. Waggon, from the Ram in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Barneſtaple</hi> and <hi>Bidyford</hi> Carrier, from the Bull and Mouth near <hi>Alderſgate,</hi> ſat. once a fortnight.</p>
+                  <p>
+                     <hi>Beckley</hi> Coach, Croſs keys in <hi>Grace-Church ſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>Beadly</hi> Carrier, Ipſwich arms in <hi>Cullum-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Berkhamſtead</hi> Coach, Bell in <hi>Holborn,</hi> tueſ. thurſ. ſat.</p>
+                  <p>
+                     <hi>Benham</hi> Waggon, Chequer in Holborn, mon.</p>
+                  <p>
+                     <hi>Bedford</hi> Carrier, Cock in <hi>Alderſgate-ſtreet,</hi> wedneſ. Wind-mill in St. <hi>John</hi>'s-<hi>ſtreet,</hi> wed. Bell in <hi>Alderſgate-ſtreet,</hi> wed. Red Lion in <hi>Alderſgate-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Betsfield</hi> Waggon, Caſtle at <hi>Smithfield-bars,</hi> thurſ.</p>
+                  <p>
+                     <hi>Bigleſworth</hi> Waggon, Swan with two Necks in St. <hi>John</hi>'s-<hi>ſtreet,</hi> tueſ. Carrier, Pewter Platter in St. <hi>John</hi>'s-<hi>ſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>Billericay</hi> Waggon, Blue Boar in <hi>Whitechappel,</hi> th. Coach, from the ſame Place, wed. ſat.</p>
+                  <p>
+                     <hi>Biſciter</hi> Waggon, Bull in <hi>Holborn,</hi> wed.</p>
+                  <p>
+                     <hi>Biſhopſtafford</hi> Waggon, from the Pewter Pot in <hi>Lea<g ref="char:EOLhyphen"/>denhall-ſtreet,</hi> tueſ. Coach, ſame Place, every day. Waggon, one Swan without <hi>Biſhopſgate,</hi> wed.</p>
+                  <p>
+                     <hi>Blackburn</hi> Carrier, Bloſſoms-Inn in <hi>Lawrence-lane,</hi> fr.</p>
+                  <p>
+                     <hi>Balton-herry</hi> Car. Bloſſoms-Inn in <hi>Lawrence-lane,</hi> fr.</p>
+                  <p>
+                     <hi>Bouden</hi> Waggon, Ram in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Briſtol</hi> Waggon King's-Arms at <hi>Holborn-bridge,</hi> fri. White Swan at <hi>Holborn-bridge,</hi> fri. Carrier, 3 Cups in <hi>Bread-ſtreet,</hi> wed. and ſat. Coach, Bell-Savage on <hi>Lud<g ref="char:EOLhyphen"/>gate-hill,</hi> mon. and thurſ. Saracen's-head in <hi>Friday-ſtreet,</hi> mon. and thurſ.</p>
+                  <pb n="3" facs="tcp:171868:2"/>
+                  <p>
+                     <hi>Brentwood</hi> Car. Crown without <hi>Aldgate,</hi> wed. ſat. Coaches, Blue Boar without <hi>Aldgate,</hi> tu. th. and ſat.</p>
+                  <p>
+                     <hi>Braantry</hi> waggon, Pewter Pot in <hi>Leadenhill-ſtreet,</hi> fri. Coach, Croſs-keys in <hi>Gracechurch-ſtreet,</hi> tu. th. and ſat.</p>
+                  <p>
+                     <hi>Bridgenorth</hi> Coach, Blue Boar in <hi>Holborn,</hi> mon.</p>
+                  <p>
+                     <hi>Bridgewater</hi> Carrier, Bear <hi>Baſinghall-ſtreet,</hi> ſat. waggon, Bell <hi>Friday-ſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>Brainford</hi> Coach, White Horſe in <hi>Fetter-lane,</hi> every day, and <hi>Red-hart.</hi>
+                  </p>
+                  <p>
+                     <hi>Brackley</hi> Wag. Oxford-arms in <hi>Warwick-lane,</hi> ſat.</p>
+                  <p>
+                     <hi>Bredhemſtone</hi> Car. Queen's-head in <hi>Southwark,</hi> thur.</p>
+                  <p>
+                     <hi>Bradford</hi> Carrier, Roſe in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Brickhil</hi> Car. Saracen's-head in <hi>Carter-lane,</hi> wed.</p>
+                  <p>
+                     <hi>Bromingham</hi> and <hi>Wolverhampton</hi> Carrier, Caſtle and Faulcon by <hi>Alderſgate,</hi> ſatur.</p>
+                  <p>
+                     <hi>Buckingham</hi> Waggon, Saracen's-head on <hi>Snow-hill,</hi> wed. Carrier, George in <hi>Smithfield,</hi> wed.</p>
+                  <p>
+                     <hi>Burford</hi> Carrier, Bell in <hi>Friday-ſtreet,</hi> thurſ. Wag<g ref="char:EOLhyphen"/>gon, Bell in the <hi>Strand,</hi> wed.</p>
+                  <p>
+                     <hi>Buntingford</hi> Car. one Swan without <hi>Biſhopſgate,</hi> tueſ. fri. Coach, Dolphin without <hi>Biſhopſgate,</hi> tueſ. thu. ſat.</p>
+                  <p>
+                     <hi>Burwaſh</hi> Carrier, Queen's-head in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Bury (St. Edmunds)</hi> Wag. Bull within <hi>Biſhopſgate,</hi> thurſ. Coach, ſame Place on thurſ. Green Dragon within <hi>Biſhopſgate,</hi> mon. and fri.</p>
+                  <p>
+                     <hi>Blandford</hi> — Caſtle in <hi>Smithfield,</hi> mon. and thurſ.</p>
+               </div>
+               <div type="section">
+                  <head>C</head>
+                  <p>
+                     <hi>CAmbridge</hi> Carrier, one Swan without <hi>Biſhopſgate,</hi> mon. wed. Vine in <hi>Biſhopſgate-ſtreet,</hi> fri. Green Dragon in <hi>Biſhopſgate-ſtreet,</hi> wed. thurſ. fri. Bull in <hi>Biſhopſgate-ſtreet,</hi> mon. wed. thurſ. fri. Waggon, Dol<g ref="char:EOLhyphen"/>phin without <hi>Biſhopſgate,</hi> fri. Four Swans in <hi>Biſhops<g ref="char:EOLhyphen"/>gate-ſtreet,</hi> 3 times a week: Croſs-keys in <hi>Gracechurch-ſtreet,</hi> fri. Coach, Bull in <hi>Biſhopſgate-ſtreet,</hi> mon. wed. fri.</p>
+                  <p>
+                     <hi>Cambden</hi> — Saracen's-head on <hi>Snow-hill,</hi> ſatur.</p>
+                  <p>
+                     <hi>Canetrbury</hi> Car. <hi>Billingſgate</hi> Coffee-houſe, th. Dark-houſe
+<pb n="4" facs="tcp:171868:3"/>at <hi>Bilſingſgate,</hi> mon. thurſ. Coach, White-hart in <hi>Southwark,</hi> every day: Star on <hi>Fiſh-ſtreet,</hi> mon. thu. Summer-time every day.</p>
+                  <p>
+                     <hi>Crookhorn</hi> Carrier ſat.</p>
+                  <p>
+                     <hi>Caſtle-Aſhby</hi> Wag. Caſtle at <hi>Smithfield-bars,</hi> thurf.</p>
+                  <p>
+                     <hi>Ceford</hi> — Wind-mill in St. <hi>John</hi>'s-<hi>ſtreet,</hi> wed.</p>
+                  <p>
+                     <hi>Cheſſon</hi> — Dolphin without <hi>Biſhopſgate,</hi> tu. th. ſat.</p>
+                  <p>
+                     <hi>Cheſhunt</hi> Coach, Flying-horſe without <hi>Biſhopſgate,</hi> every day.</p>
+                  <p>
+                     <hi>Chipton Norton</hi> Carrier, Bear and Ragged Staff in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Chalby</hi> Waggon, Roſe at <hi>Holborn-bridge,</hi> thurſ.</p>
+                  <p>
+                     <hi>Chelmsford</hi> Waggon, Croſs keys in <hi>Gracechurch-ſtreet,</hi> wed. ſat. Coach, tueſ. thurſ. ſat.</p>
+                  <p>
+                     <hi>Cheſham</hi> Waggon, White Horſe at <hi>Fleet-ditch,</hi> by <hi>Holborn-bridge,</hi> wed. ſat.</p>
+                  <p>
+                     <hi>Cheſterſield</hi> Carrier, Caſtle in <hi>Wood-ſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>Cheſtenham</hi> Car. Saracen's-head in <hi>Carter-lane,</hi> ſat.</p>
+                  <p>
+                     <hi>Chicheſter</hi> Car. White Hart in <hi>Southwark,</hi> thurſ. fri.</p>
+                  <p>
+                     <hi>Chittenſtone</hi> Car. White Horſe in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Cirenceſter</hi> Waggon, King's-Head in the <hi>Old-Change,</hi> fri. and Saracen's-head in <hi>Carter-lane.</hi>
+                  </p>
+                  <p>
+                     <hi>Clapham</hi> Coach, Spread-Eagle in <hi>Gracechurch-ſtreet</hi> every day: Croſs-keys in <hi>Gracechurch-ſtreet,</hi> every day</p>
+                  <p>
+                     <hi>Clare</hi> Car. Spread-Eagle in <hi>Gracechurch-ſtreet,</hi> thur.</p>
+                  <p>
+                     <hi>Copel</hi> Carrier, Cock in <hi>Alderſgate-ſtreet,</hi> wed.</p>
+                  <p>
+                     <hi>Codingham</hi> Carrier, Roſe in <hi>Smithfield.</hi> thurſ.</p>
+                  <p>
+                     <hi>Coventry</hi> Waggon, Ram in <hi>Smithfield,</hi> thurſ. ſat.</p>
+                  <p>
+                     <hi>Colcheſter</hi> Waggon, Croſs-keys in <hi>Gracechurch-ſtreet,</hi> frid. from the Saracen's-head within <hi>Aldgate,</hi> frid. Coach Spread-Eagle in <hi>Gracechurch-ſtreet.</hi>
+                  </p>
+                  <p>
+                     <hi>Coddicote</hi> Coach, George in <hi>Alderſgate-ſtreet,</hi> tu. ſat.</p>
+                  <p>
+                     <hi>Coxel</hi> Car. Spread Eagle in <hi>Gracechurch-ſtreet,</hi> frid.</p>
+                  <p>
+                     <hi>Croydon</hi> Coach, Grey-hound in <hi>Southwark,</hi> every day.</p>
+                  <p>
+                     <hi>Cranbroke</hi> Carrier, Talbot in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Crandon-long,</hi> George in <hi>Smithfield,</hi> fri.</p>
+                  <pb n="5" facs="tcp:171868:3"/>
+                  <p>
+                     <hi>Cranfield</hi> Carrier. George in <hi>Alderſgate-ſtreet,</hi> thurſ.</p>
+               </div>
+               <div type="section">
+                  <head>D</head>
+                  <p>
+                     <hi>DArby</hi> Waggon, Caſtle at <hi>Smithfield-bars,</hi> mon.</p>
+                  <p>
+                     <hi>Daventry</hi> Carrier, Caſtle in <hi>Smithfield,</hi> thurſ. Ram in <hi>Smithfield,</hi> mon. Waggon, Three Cups in St. <hi>John's-ſtreet,</hi> thurſ. Coach, from the ſame Place, mon.</p>
+                  <p>
+                     <hi>Danton</hi> Carrier, George in <hi>Drury-lane,</hi> thurſ.</p>
+                  <p>
+                     <hi>Deviſes</hi> Wag. Bull and Mouth near <hi>Alderſgate,</hi> th.</p>
+                  <p>
+                     <hi>Dorcheſter</hi> Coach, Bell in the <hi>Strand,</hi> mon. thurſ.</p>
+                  <p>
+                     <hi>Dover</hi> Waggon. King's-head in <hi>Southwark,</hi> thurſ. ſat. Coach, White-Hart in <hi>Southwark.</hi>
+                  </p>
+                  <p>
+                     <hi>Dorington</hi> Waggon, Caſtle in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Dorſet,</hi> Caſtle in <hi>Smithfield,</hi> mon. thurſ.</p>
+                  <p>
+                     <hi>Dunſtable</hi> Wag. 3 Cups in <hi>Alderſgate-ſtreet,</hi> tueſ. fri. Coach, from the ſame Place, tueſ. thurſ. ſat.</p>
+                  <p>
+                     <hi>Dunchurch</hi> — Caſtle in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Dunmore</hi> Wag. Three Nuns without <hi>Aldgate,</hi> thurſ.</p>
+               </div>
+               <div type="section">
+                  <head>E</head>
+                  <p>
+                     <hi>EAton-bridge</hi> Car. White-horſe in <hi>Southwark,</hi> tueſ.</p>
+                  <p>
+                     <hi>Eaſtwick</hi> Car. One Swan without <hi>Biſhopſgate,</hi> w. ſ.</p>
+                  <p>
+                     <hi>Edmonton</hi> Coach, Four Swans in <hi>Biſhopſgate-ſtreet,</hi> every day: Bull in <hi>Biſhopſgate-ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Egham</hi> Coach, Black Lion in <hi>Water-lane,</hi> tu. th. ſat.</p>
+                  <p>
+                     <hi>Ely</hi> — Green Dragon in <hi>Biſhopſgate-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Enfield</hi> Coach, Four Swans in <hi>Biſhopſgate-ſtreet,</hi> every day: Coach within <hi>Biſhopſgate,</hi> every day.</p>
+                  <p>
+                     <hi>Epſom</hi> Coach, Croſs-keys in <hi>Gracechurch-ſtreet,</hi> tueſ. th. ſat. Spread Eagle in <hi>Gracechurch-ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Epping</hi> Coach, Nag's-head without <hi>Aldgate,</hi> wed.</p>
+                  <p>
+                     <hi>Everſham</hi> Waggon, Caſtle in <hi>Woodſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>Exeter</hi> Car. Bell in <hi>Friday-ſtreet,</hi> mon. Saracen's-head in <hi>Friday-ſtreet,</hi> ſat. Wag. Roſe on <hi>Holborn-bridge,</hi> m. King's Arms at <hi>Holborn-bridge,</hi> wed. Coach, Saracen's-head in <hi>Friday-ſtreet,</hi> mon. wed. fri.</p>
+               </div>
+               <div type="section">
+                  <head>F</head>
+                  <p>
+                     <hi>FA<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ington</hi> Waggon, Bell in <hi>Holborn,</hi> thurſ.</p>
+                  <pb n="6" facs="tcp:171868:4"/>
+                  <p>
+                     <hi>Fenny-ſtanion</hi> Waggon, Katherine-wheel with<g ref="char:EOLhyphen"/>out <hi>Biſhopſgate,</hi> fri.</p>
+                  <p>
+                     <hi>Fetching</hi> Carrier, Grey-hound in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Finchly</hi> Coach, Swan with two Necks in St. <hi>John</hi>'s <hi>reet,</hi> every day.</p>
+                  <p>
+                     <hi>Froome</hi> Wag. King's-arms at <hi>Holborn-bridge,</hi> fri.</p>
+                  <p>
+                     <hi>Ferdingbridge</hi> Wag. Oxford-arms in <hi>Warwick-lane,</hi> ſ.</p>
+                  <p>
+                     <hi>Fulworth</hi> Waggon, Ram in <hi>Smithfield,</hi> thurſ.</p>
+               </div>
+               <div type="section">
+                  <head>G</head>
+                  <p>
+                     <hi>GAinsborough</hi> Car. Red Lion in <hi>Alderſgate-ſtreet,</hi> m.</p>
+                  <p>
+                     <hi>Gloceſter</hi> Wag. King's-head in the <hi>Old-Change,</hi> ſat. <hi>Bloſſoms-Inn</hi> in <hi>Lawrence-lane,</hi> fri. Coach, Bolt and Tun in <hi>Fleet-ſtreet,</hi> mon. wed.</p>
+                  <p>
+                     <hi>Godlyman</hi> Carrier, King's-head in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Godmancheſter,</hi> waggon, thurſ.</p>
+                  <p>
+                     <hi>Grantham</hi> Coach and Waggon, Croſs-keys in <hi>Whitecroſs-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Grinſtead</hi> Car. Half-moon in <hi>Southwark,</hi> wed. ſat.</p>
+                  <p>
+                     <hi>Grandon</hi> Waggon, George in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Guilford</hi> Wag. Queens-head in <hi>Southwark,</hi> tueſ. Coach, ſame place, tueſ. fri. Coach, Talbot in the <hi>Strand,</hi> tueſ. wed. fri. ſat. Coach, Bell in the <hi>Strand,</hi> tueſ. wed. fri. ſat.</p>
+                  <p>
+                     <hi>Grantham</hi> — Red Lion in <hi>Alderſgate-ſtreet,</hi> mon.</p>
+               </div>
+               <div type="section">
+                  <head>H</head>
+                  <p>
+                     <hi>HAllifax</hi> Carrier, White-Horſe at <hi>Cripplegate,</hi> thu. Bell in <hi>Wood-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Harrow on the hill</hi> Wag. Unicorn in <hi>Holborn</hi> every day. Coach, Crown in <hi>Holborn,</hi> mon. wed. ſat.</p>
+                  <p>
+                     <hi>Harlinton</hi> Car. Golden Lion in St. <hi>John's-ſtreet,</hi> wed.</p>
+                  <p>
+                     <hi>Harding</hi> Wag. Cock in <hi>Alderſgate-ſtreet,</hi> tueſ. fri.</p>
+                  <p>
+                     <hi>Hadnam</hi> Wag. Talbot in the <hi>Strand,</hi> fri.</p>
+                  <p>
+                     <hi>Harringworth</hi> Waggon, Caſtle in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Harwich</hi> Coach, Saracen's head within <hi>Aldgale,</hi> tu. fr.</p>
+                  <p>
+                     <hi>Hamſtead</hi> Coach, Cock &amp; Dolphin in <hi>Grays-Inn-lane.</hi> King's-head the ſame lane, Bell in <hi>Holborn</hi> every day.</p>
+                  <pb n="7" facs="tcp:171868:4"/>
+                  <p>
+                     <hi>Hatfield</hi> Wag. Spread Eagle in <hi>Gracechurch-ſtreet,</hi> fr. Coach, Red Lion in <hi>Alderſgate-ſtreet,</hi> tueſ. thurſ. ſat.</p>
+                  <p>
+                     <hi>Hadham</hi> Coach, Wag. Bull in <hi>Biſhopſgate-ſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>Heamſtead</hi> Wag. George on <hi>Holborn-bridge,</hi> wed. ſat.</p>
+                  <p>
+                     <hi>Hendon</hi> Coach, Bell in <hi>Holborn,</hi> mon. wed. ſat.</p>
+                  <p>
+                     <hi>Hertford</hi> Car. Four Swans within <hi>Biſhopſgate,</hi> tu. fri. Bull in <hi>Biſhopſgate-ſtreet,</hi> tueſ. thurſ. ſat. Coach, Vine in <hi>Biſhopſgate-ſtreet,</hi> tueſ. fri. Coach Waggon, One Swan without <hi>Biſhopſgate,</hi> tueſ. fri.</p>
+                  <p>
+                     <hi>Hereford</hi> Carrier, Croſs-keys in <hi>Woodſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>Hitching</hi> Wag. 3 Arrows in <hi>Golden-lane,</hi> tueſ. fri. Cock in <hi>Old-ſtreet,</hi> tueſ. fri. Car. Swan in St. <hi>John</hi>'s-<hi>ſtreet,</hi> th. Coach, from the Bell in <hi>Smithfield,</hi> tu. th. ſat.</p>
+                  <p>
+                     <hi>Highworth</hi> Waggon, George on <hi>Holborn-bridge,</hi> mon. Oxford-arms in <hi>Warwick-lane,</hi> mon.</p>
+                  <p>
+                     <hi>Hooknorton</hi> Waggon, Roſe on <hi>Holborn-bridge,</hi> thurſ.</p>
+                  <p>
+                     <hi>Horſmountſly</hi> Car. King's-head in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Hodſdon</hi> Coach, Bull within <hi>Biſhopſgate,</hi> tu. th. ſat. Coach, at the Dolphin without <hi>Biſhopſgate,</hi> ſame days.</p>
+                  <p>
+                     <hi>Hornchurch</hi> Wag. White-hart without <hi>Aldgate,</hi> wed. fri. Coach, 3 Nuns without <hi>Aldgate,</hi> 3 days a week.</p>
+                  <p>
+                     <hi>Horſham</hi> Carrier, White-hart in <hi>Southwark,</hi> wed.</p>
+                  <p>
+                     <hi>Huntington</hi> Car. 3 Cups in <hi>Alderſgate-ſtreet,</hi> thurſ. from the Red Lion in <hi>Alderſgate-ſtreet,</hi> the ſame day.</p>
+                  <p>
+                     <hi>Hull</hi> Carrier, Red Lion in <hi>Alderſgate-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Huſley</hi> Carrier, George in <hi>Drury-lane,</hi> thurſ.</p>
+                  <p>
+                     <hi>High-Ruden</hi> Wag. 3 Nuns without <hi>Aldgate,</hi> thurſ.</p>
+               </div>
+               <div type="section">
+                  <head>I</head>
+                  <p>
+                     <hi>ILford</hi> Coach, Crown without <hi>Aldgate,</hi> every day.</p>
+                  <p>
+                     <hi>Ingerſtone</hi> Wag. 3 Nuns without <hi>Aldgate,</hi> wed.</p>
+                  <p>
+                     <hi>Joe</hi> (St.) Car. Red Lion without <hi>Biſhopſgate,</hi> thurſ.</p>
+                  <p>
+                     <hi>Ipſwich</hi> Wag. Croſs-keys in <hi>Gracechurch-ſtreet,</hi> th. Coach, ſame Place, Winter-time, thurſ. mon. Sum<g ref="char:EOLhyphen"/>mer-time, mon. wed. fri.</p>
+               </div>
+               <div type="section">
+                  <head>K</head>
+                  <p>
+                     <hi>KAxton</hi> Car. Three Cups in <hi>Alderſgate-ſtreet,</hi> fri.</p>
+                  <pb n="8" facs="tcp:171868:5"/>
+                  <p>
+                     <hi>Kendal</hi> Carrier, Caſtle in <hi>Wood-ſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>Kempſon</hi> Carrier, Roſe in <hi>Smithfield,</hi> wed.</p>
+                  <p>
+                     <hi>Kettring</hi> Carrier, Bell in <hi>Baſinghal-ſtreet,</hi> thurſ. Wag. Roſe in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Kington</hi> Waggon, George in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Kigly</hi> Car. White-horſe without <hi>Cripplegate,</hi> fri.</p>
+                  <p>
+                     <hi>Kidderminſter</hi> Wag. Saracen's-head on <hi>Snow-hil,</hi> ſat.</p>
+                  <p>
+                     <hi>Kingſclear</hi> Waggon, George in <hi>Drury-lane,</hi> thurſ.</p>
+                  <p>
+                     <hi>Kingſlangley</hi> wag. white Horſe by <hi>Fleet-ditch,</hi> tu. fri.</p>
+                  <p>
+                     <hi>Kimbolton,</hi> Red Lyon, <hi>Alderſgate-ſtreet,</hi> wed.</p>
+               </div>
+               <div type="section">
+                  <head>L</head>
+                  <p>
+                     <hi>LAvenham</hi> Car. Croſs-keys in <hi>Gracechurch-ſtreet,</hi> fr.</p>
+                  <p>
+                     <hi>Layton-Buzard</hi> Car. Saracen's-head in <hi>Carter-lane,</hi> wed. Wag. Saracen's-head on <hi>Snow-hill,</hi> fri.</p>
+                  <p>
+                     <hi>Lancaſter</hi> Car. Swan with two Necks in <hi>Ladlane,</hi> fr.</p>
+                  <p>
+                     <hi>Lamburn</hi> Wag. Bell-Savage on <hi>Ludgate-hil,</hi> thurſ.</p>
+                  <p>
+                     <hi>Lewes</hi> Carrier, George in <hi>Southwark,</hi> thurſ. Tal<g ref="char:EOLhyphen"/>bot in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Letherhead</hi> Waggon, King's-head in <hi>Southwark,</hi> wed. ſat. Coach, ſame place, tueſ. ſat.</p>
+                  <p>
+                     <hi>Lempſter</hi> Car. Bull and Mouth near <hi>Alderſgate,</hi> ſat.</p>
+                  <p>
+                     <hi>Leeds</hi> Carrier, Axe in <hi>Aldermanbury,</hi> fri. white Horſe without <hi>Cripplegate,</hi> fri.</p>
+                  <p>
+                     <hi>Lieceſter</hi> Waggon, Roſe in <hi>Smithfield,</hi> mon.</p>
+                  <p>
+                     <hi>Litterworth</hi> Waggon, Ram in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Litchfield</hi> — George in <hi>Alderſgate-ſtreet,</hi> tueſ.</p>
+                  <p>
+                     <hi>Linton</hi> Wag. Four Swans in <hi>Biſhopſgate-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Lincoln</hi> — Red Lion in <hi>Alderſgate-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Loughborough</hi> Car. Red Lion in <hi>Alderſgate-ſtreet,</hi> m.</p>
+                  <p>
+                     <hi>Lough</hi> Carrier, George in <hi>Alderſgate-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Low Layton</hi> Coa. Crown without <hi>Aldgate,</hi> every day.</p>
+                  <p>
+                     <hi>Ludlow</hi> Carrier, George in <hi>Ald<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rſgate-ſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>Lutton</hi> Coach, Cock in <hi>Alderſgate-ſtreet,</hi> tu. th. ſat.</p>
+                  <p>
+                     <hi>Lyn</hi> Coach, Green Dragon in <hi>Biſhopſgate-ſtreet,</hi> mon.</p>
+               </div>
+               <div type="section">
+                  <head>M</head>
+                  <p>
+                     <hi>MAyfield</hi> Car. Grey-hound in <hi>Southwark,</hi> thurſ.</p>
+                  <pb n="9" facs="tcp:171868:5"/>
+                  <p>
+                     <hi>Mansfield</hi> Carrier, George in <hi>Smithfield,</hi> mon.</p>
+                  <p>
+                     <hi>Marlborough</hi> Wag. Roſe at <hi>Holborn-bridge,</hi> wed. ſame Place on thurſ. Car. white Swan on <hi>Holborn-bridge,</hi> thurſ. Coach, Angel backſide of St. <hi>Clements,</hi> thurſ.</p>
+                  <p>
+                     <hi>Marlow (Great)</hi> Wag. ſame Place, fri.</p>
+                  <p>
+                     <hi>Mancheſter</hi> Car. Axe in <hi>Aldermanbury,</hi> fri. Bloſſoms-Inn in <hi>Lawrence-lane,</hi> fri.</p>
+                  <p>
+                     <hi>Maxfield</hi> Car. Swan with two Necks in <hi>Lad-lane,</hi> fri.</p>
+                  <p>
+                     <hi>Malden</hi> Waggon, Blue Boar in <hi>Whitechappel,</hi> thurſ. Coach, from the ſame Place, wed. ſat.</p>
+                  <p>
+                     <hi>Maidſtone</hi> Carrier, King's-head in <hi>Southwark,</hi> thurſ. Coach, Star on <hi>Fiſh-ſtreet-hill,</hi> tueſ. ſat.</p>
+                  <p>
+                     <hi>Marſhgibbon</hi> Car. Saracen's-head in <hi>Carter-lane,</hi> wed.</p>
+                  <p>
+                     <hi>Mavil</hi> Carrier, Grey-hound in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Maidenhead</hi> Coach, Black Lion in <hi>Water-lane, Fleet-ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Midhurſt</hi> Carrier, white-Hart in <hi>Southwark,</hi> wed.</p>
+                  <p>
+                     <hi>Moltonmowberry</hi> — Ram in <hi>Smithfield</hi> mon.</p>
+                  <p>
+                     <hi>Middlewich</hi> and <hi>Mancheſter</hi> Carrier, Axe in <hi>Alder<g ref="char:EOLhyphen"/>manbury,</hi> fri.</p>
+                  <p>
+                     <hi>Monmouth</hi> Carrier, Bell in <hi>Friday-ſtreet,</hi> ſat.</p>
+               </div>
+               <div type="section">
+                  <head>N</head>
+                  <p>
+                     <hi>N<g ref="char:V">Ʋ</g>tsford</hi> — Axe in <hi>Aldermanbury,</hi> fri.</p>
+                  <p>
+                     <hi>Newbery</hi> Wag. King's-arms on <hi>Holborn-bridge,</hi> th.</p>
+                  <p>
+                     <hi>Needs</hi> (St.) Wag. Three Cups in <hi>Alderſgate-ſtreet,</hi> mon. Carrier, Cock in <hi>Alderſgate-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Newcaſtle-<g ref="char:V">Ʋ</g>nder-line,</hi> Carrier, Swan with two Necks in <hi>Lad-lane,</hi> mon.</p>
+                  <p>
+                     <hi>Newport</hi> in <hi>Bucks</hi> Coach-Wag. Bull and Mouth near <hi>Alderſgate,</hi> white-Hart in <hi>Alderſgate-ſtreet,</hi> wed. thurſ.</p>
+                  <p>
+                     <hi>Newport</hi> in <hi>Shropſhire</hi> Waggon, Caſtle and Fal<g ref="char:EOLhyphen"/>con in <hi>Alderſgate-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Norwich</hi> wag. Bull in <hi>Biſhopſgate-ſtreet,</hi> wed. Coach, ſame Place, tueſ. thurſ. ſat. Green Dragon in <hi>Biſhopſgate-ſtreet,</hi> mon. wag. ſame Place, Horſe-Car. Bull in <hi>Biſhopſgate-ſtreet,</hi> fri.</p>
+                  <pb n="10" facs="tcp:171868:6"/>
+                  <p>
+                     <hi>Northwich</hi> in <hi>Cheſhire,</hi> Axe in <hi>Aldermanbury,</hi> fri.</p>
+                  <p>
+                     <hi>Nodleage</hi> Wag. Saracen's on <hi>Snow-hil</hi> thurſ.</p>
+                  <p>
+                     <hi>North-hall</hi> Coach, George in <hi>Alderſgate-ſtreet,</hi> tueſ. thurſ. ſat.</p>
+                  <p>
+                     <hi>Nottingham</hi> Coach, Ram in <hi>Smithfield,</hi> mon. Wag. ſame Place, Coach, Bell-Savage on <hi>Ludgate-hill,</hi> mon.</p>
+                  <p>
+                     <hi>Northampton</hi> Wag. Roſe in <hi>Smithfield,</hi> thurſ. Ram in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Newberry</hi> Wag. Croſs-keys in <hi>Wood-ſtreet,</hi> wed. <hi>Ge<g ref="char:EOLhyphen"/>rards-hall,</hi> thurſ. Coach, Bolt and Tun in <hi>Fleet-ſtreet,</hi> every day: white Horſe in <hi>Fleet-ſtreet,</hi> every day.</p>
+               </div>
+               <div type="section">
+                  <head>O</head>
+                  <p>
+                     <hi>OAkingham</hi> Wag. Oxford-arms in <hi>Warwick-lane,</hi> white Horſe in <hi>Friday-ſtreet,</hi> thurſ. Coach, white Swan in <hi>Swan-yard,</hi> againſt <hi>Somerſet-houſe,</hi> every day.</p>
+                  <p>
+                     <hi>Olneg</hi> Waggon. George in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Onger</hi> Coach-Waggon, Crown without <hi>Aldgate,</hi> tueſ. fri. Coach, ſame Place, tueſ. thurſ. ſat.</p>
+                  <p>
+                     <hi>Oxford</hi> Wag Oxford-arms in <hi>Warwick-lane,</hi> wed. Coach, 3 days a week. Coach-Wag. Saracen's-head on <hi>Snow-hill,</hi> every day. Coach, Black Swan in <hi>Holborn,</hi> mon. wed. fri. Grey-hound in <hi>Holborn,</hi> tueſ. thurſ. ſat. Chequer in <hi>Holborn,</hi> mon.</p>
+                  <p>
+                     <hi>Oundel</hi> Wag. and Car. Ram in <hi>Smithfield,</hi> thurſ.</p>
+               </div>
+               <div type="section">
+                  <head>P.</head>
+                  <p>
+                     <hi>PArk-ſtreet</hi> Wag. Cock in <hi>Alderſgate-ſtreet,</hi> tu. fri.</p>
+                  <p>
+                     <hi>Peterborough</hi> Carrier, Bell in <hi>Friday-ſtreet,</hi> thur.</p>
+                  <p>
+                     <hi>Perith</hi> Carrier, Caſtle <hi>Wood-ſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>Plimouth</hi> Car. Saracen's-head, <hi>Friday-ſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>Petworth</hi> Carrier, King's-head in <hi>Southwark,</hi> wed, white Hart in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Pool</hi> — Roſe at <hi>Holborn-bridge,</hi> mon.</p>
+                  <p>
+                     <hi>Portſmouth</hi> Wag. white Hart in <hi>Southwark,</hi> thurſ. Coach, ſame Place mon. Croſs-keys in <hi>Gracechurch-ſtreet,</hi> mon. wed. and fri.</p>
+                  <p>
+                     <hi>Plaxton</hi> — Ship in <hi>Southwark,</hi> wed. ſat.</p>
+                  <pb n="11" facs="tcp:171868:6"/>
+                  <p>
+                     <hi>Preſton</hi> Carrier, Caſtle in <hi>Wood-ſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>Puckridge</hi> Car. One Swan without <hi>Biſhopſgate,</hi> fri.</p>
+               </div>
+               <div type="section">
+                  <head>R</head>
+                  <p>
+                     <hi>REading</hi> Wag. Croſs-keys in <hi>Wood-ſtreet,</hi> wed. <hi>Ge<g ref="char:EOLhyphen"/>rards-hall,</hi> thurſ. Coach, Bolt and Tun in <hi>Fleet-ſtreet,</hi> white Horſe in <hi>Fleet-ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Richmond</hi> Car. white Horſe, without <hi>Cripplegate,</hi> m.</p>
+                  <p>
+                     <hi>Royſton</hi> — Vine without <hi>Biſhopſgate,</hi> fri.</p>
+                  <p>
+                     <hi>Rumford</hi> Coach, Saracen's-head at <hi>Aldgate</hi> every day.</p>
+                  <p>
+                     <hi>Rugby</hi> Waggon-Carrier, Ram in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Rye</hi> Carrier, Grey-hound in <hi>Southwark,</hi> tueſ. fri.</p>
+               </div>
+               <div type="section">
+                  <head>S</head>
+                  <p>
+                     <hi>SAliſbury</hi> Waggon, King's-arms on <hi>Holborn-bridge,</hi> mon. fri. Coach, Angel the back-ſide of St. <hi>Clements,</hi> mon. wed. and fri.</p>
+                  <p>
+                     <hi>Sandon</hi> Carrier, Red Lion without <hi>Biſhopſgate,</hi> fri.</p>
+                  <p>
+                     <hi>Sanford</hi> Carrier, Saracen's-head at <hi>Aldgate,</hi> wed.</p>
+                  <p>
+                     <hi>Saffron Walden</hi> Carrier, Vine within <hi>Biſhopſgate,</hi> thurſ. Coach, Blue Boar without <hi>Aldgate,</hi> in Sum<g ref="char:EOLhyphen"/>mer time every day.</p>
+                  <p>
+                     <hi>Shipton</hi> Waggon, Roſe in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Sherrington</hi> Car. George in <hi>Alderſgate-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Shrewsbury</hi> Car. Caſtle in <hi>Wood-ſtreet,</hi> Bell in <hi>Wood-ſtreet,</hi> fri. Coach, George in <hi>Alderſgate. ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Shaftsbury</hi> Carrier, <hi>Gerards-hall,</hi> ſat.</p>
+                  <p>
+                     <hi>Sherbourn, Crookhorn</hi> Carrier, ſame Place and day.</p>
+                  <p>
+                     <hi>Shoreham</hi> Car. Queen's-head in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Southſtoke</hi> Carrier, George in <hi>Drury-lane,</hi> wed.</p>
+                  <p>
+                     <hi>Southgate</hi> Coach, Four Swans in <hi>Biſhopſgate-ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Southampton</hi> Waggon, Kings-arms every 9 day, at <hi>Holborn-bridge,</hi> Coach, mon. wed. fri.</p>
+                  <p>
+                     <hi>Southam</hi> Waggon, Ram in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Stratford on Avon</hi> Wag. Ram in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Stoke Bruen</hi> Carrier, George in Smithfield, wed.</p>
+                  <p>
+                     <hi>Stafford</hi> Wag. Caſtle and Falcon by <hi>Alderſgate,</hi> m.</p>
+                  <pb n="12" facs="tcp:171868:7"/>
+                  <p>
+                     <hi>Stony-Stratford</hi> Car. George in <hi>Alderſgate-ſtreet,</hi> w.</p>
+                  <p>
+                     <hi>Stanford</hi> and <hi>Grantham</hi> Wag. Cock in <hi>Old-ſtreet,</hi> and Croſs-keys in <hi>White-croſs-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Stroudwater</hi> Car. <hi>Gerards-hall,</hi> fri. Bell in <hi>Friday-ſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>Stenning</hi> Car. King's-head in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Sheffield,</hi> Caſtle <hi>Wood-ſtreet,</hi> and <hi>Bloſſoms-Inn,</hi> fri.</p>
+                  <p>
+                     <hi>Stow in the Hold</hi> Waggon, Saracen's-head on <hi>Snow-hill,</hi> thurſ.</p>
+                  <p>
+                     <hi>Stranbourn</hi> Car. Queen's-head in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Sennock</hi> Waggon, Spur in <hi>Southwark,</hi> tueſ. fri.</p>
+                  <p>
+                     <hi>Sudbury</hi> Waggon and Coach, Spread-Eagle in <hi>Gracechurchſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>Swallowfield</hi> VVaggon, Bull in <hi>Holborn,</hi> thurſ.</p>
+               </div>
+               <div type="section">
+                  <head>T</head>
+                  <p>
+                     <hi>TAunton-Dean</hi> Carrier, Bell in <hi>Wood-ſtreet,</hi> ſat. Bell in <hi>Friday-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Thame</hi> waggon, white Horſe in <hi>Friday-ſtreet,</hi> fri. Carrier, Saracen's-head in <hi>Friday-ſtreet,</hi> thurſ.</p>
+                  <p>
+                     <hi>Tamworth</hi> Car. from the Bell in <hi>Wood-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Tedbury</hi> Carrier, Swan <hi>Holborn-brige,</hi> fri.</p>
+                  <p>
+                     <hi>Teuxbery</hi> Carrier, Swan <hi>Holborn-bridge</hi> fri.</p>
+                  <p>
+                     <hi>Todington</hi> Carrier, Swan with two Necks in St. <hi>John</hi>'s-<hi>ſtreet,</hi> wed.</p>
+                  <p>
+                     <hi>Thackſtead</hi> Car. Saracen's-head within <hi>Aldgate,</hi> wed.</p>
+                  <p>
+                     <hi>Tociter</hi> waggon, Ram in <hi>Smithfield,</hi> fri. Caſtle at <hi>Smithfield-bars,</hi> fri.</p>
+                  <p>
+                     <hi>Trubridge</hi> Carrier, Bell in <hi>VVood-ſtreet,</hi> mon.</p>
+                  <p>
+                     <hi>Tunbridge</hi> wag. George in <hi>Southwark,</hi> in the VVin<g ref="char:EOLhyphen"/>ter-time wed. during the VVells, tueſ. fri. Coach, white Hart in <hi>Southwark,</hi> mon. fri. in the VVinter-time; in Summer-time, every other day, Coach, Bell-Savage on <hi>Ludgate-hil.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>U</head>
+                  <p>
+                     <hi>UXbridge</hi> Coach, Bull in <hi>Holborn,</hi> every day.</p>
+               </div>
+               <pb n="13" facs="tcp:171868:7"/>
+               <div type="section">
+                  <head>VV.</head>
+                  <p>
+                     <hi>WAre</hi> Coach, Dolphin without <hi>Biſhopſgate,</hi> every day: Vine within <hi>Biſhopſgate,</hi> tueſ. thurſ. ſat.</p>
+                  <p>
+                     <hi>VVantage</hi> wag. Saracen's-head in <hi>Friday-ſtreet.</hi>
+                  </p>
+                  <p>
+                     <hi>VVallingford</hi> wag. white Horſe in <hi>Friday-ſtreet,</hi> wed.</p>
+                  <p>
+                     <hi>VVarwick</hi> wag. Saracen's-head on <hi>Snow-hill,</hi> ſat. Bell in <hi>Smithfield,</hi> thurſ.</p>
+                  <p>
+                     <hi>Watford</hi> wag: George at <hi>Holborn-bridge,</hi> tu.w.th.ſat.</p>
+                  <p>
+                     <hi>VValdron</hi> Car. Grey-hound in <hi>Southwark,</hi> thurſ.</p>
+                  <p>
+                     <hi>Walthamſtow</hi> Co: Crown without <hi>Aldgate,</hi> every d.</p>
+                  <p>
+                     <hi>VValtham Abbey</hi> Coach, Green Dragon in <hi>Biſhops<g ref="char:EOLhyphen"/>gate-ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Warrington</hi> Car: Caſtle &amp; Faulcon in <hi>Alderſgate-ſtr:</hi> fr.</p>
+                  <p>
+                     <hi>Welinborough</hi> Car. Bear, Ragged Staff, <hi>Smithfield,</hi> th.</p>
+                  <p>
+                     <hi>Weſt-Cheſter</hi> Car. Bloſſoms-Inn, ſat. Caſtle &amp; Faulcon near <hi>Alderſgate,</hi> ſat. wag. George in <hi>Alderſgate-ſtreet,</hi> m. th. Coach, Catherine-wheel in <hi>Smithfield.</hi>
+                  </p>
+                  <p>
+                     <hi>Weeden</hi> waggon, Bell in <hi>Smithfield</hi> thurſ.</p>
+                  <p>
+                     <hi>VVells</hi> Carrier, Caſtle in <hi>VVood-ſtreet,</hi> ſat.</p>
+                  <p>
+                     <hi>VVeſtram</hi> Car. Grey-hound in <hi>Southwark,</hi> tu. fri.</p>
+                  <p>
+                     <hi>VVendover</hi> waggon, Swan at <hi>Holborn-bridge,</hi> thurſ.</p>
+                  <p>
+                     <hi>VVhetomſtead</hi> wag. Cock in <hi>Alderſgate-ſtreet,</hi> w. ſat.</p>
+                  <p>
+                     <hi>VVhetſtone</hi> Coach, Golden Lion in St. <hi>John</hi>'s-<hi>ſtreet,</hi> every day.</p>
+                  <p>
+                     <hi>Windſor</hi> Co: white horſe in <hi>Fleet-ſtr:</hi> Bell-Savage on <hi>Ludgate-hill:</hi> Black Lion in <hi>water-lane Fleet-ſtr:</hi> every d.</p>
+                  <p>
+                     <hi>Wickham</hi> wag. Bel-Savage <hi>Ludgate-hill,</hi> th. George in <hi>Alderſgate-ſtreet,</hi> w. Saracen's-head in <hi>Friday-ſtreet,</hi> w.</p>
+                  <p>
+                     <hi>VVickham</hi> Car: Bull &amp; Mouth near <hi>Alderſgate,</hi> tueſ.</p>
+                  <p>
+                     <hi>VVisbich</hi> Carrier, Bull within <hi>Biſhopſgate,</hi> fri.</p>
+                  <p>
+                     <hi>VVittham</hi> Car. Croſs-keys in <hi>Gracechurch-ſtreet,</hi> fri.</p>
+                  <p>
+                     <hi>VVitney</hi> waggon, George at <hi>Holborn-bridge,</hi> thurſ.</p>
+                  <p>
+                     <hi>VVincheſter</hi> wag. Roſe on <hi>Holborn-bridge,</hi> mon. th.</p>
+                  <p>
+                     <hi>VVoobourne</hi> Car. Wind mill in St. <hi>John</hi>'s-<hi>ſtreet,</hi> wed.</p>
+                  <p>
+                     <hi>VVo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſtock</hi> waggon, Bell in <hi>Holborn,</hi> fri.</p>
+                  <p>
+                     <hi>VV<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ceſter</hi> wag. Bull and Mouth at <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>derſgate,</hi> ſat. Car. Bell in <hi>VVood-ſtreet,</hi> ſat. Coach, King's-head in
+<pb n="14" facs="tcp:171868:8"/>the <hi>Strand,</hi> mon. thurſ. Blue Boar in <hi>Holborn,</hi> mn.</p>
+                  <p>
+                     <hi>VVoodford</hi> Coach, 3 Nuns without <hi>Aldgate,</hi> every d.</p>
+                  <p>
+                     <hi>Woofan</hi> Car: Red-Lion and Axe in <hi>Red-croſs-ſtr:</hi> th.</p>
+                  <p>
+                     <hi>VVolverhampton</hi> Carrier, Caſtle and Faulcon in <hi>Alderſgate-ſtreet,</hi> ſat. Ram in <hi>Smithfield,</hi> mon.</p>
+               </div>
+               <div type="section">
+                  <head>Y</head>
+                  <p>
+                     <hi>YArmouth</hi> Coach, Green Dragon in <hi>Biſhopſgate-ſtreet,</hi> thurſ. ſat.</p>
+                  <p>
+                     <hi>York</hi> Car: Red-Lion in <hi>Alderſgate-ſtr:</hi> m. Bear in <hi>Ba<g ref="char:EOLhyphen"/>ſing-lane,</hi> fri. Coach, Black Swan in <hi>Holborn,</hi> tu. th. ſat.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>A true Deſcription of the High-ways, throughout <hi>London</hi> and <hi>Wales.</hi>
+               </head>
+               <div type="section">
+                  <head>From London to Cambridge 44 miles, thus accounted.</head>
+                  <p>
+                     <hi>From London to Waltham</hi> 12 <hi>miles, to VVare</hi> 8 <hi>miles to Puckridge</hi> 5 <hi>miles, to Barkway</hi> 7 <hi>miles, to Foul<g ref="char:EOLhyphen"/>mire</hi> 6 <hi>miles, thence to Cambridge</hi> 6 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Oxford 47 miles.</head>
+                  <p>
+                     <hi>From London to <g ref="char:V">Ʋ</g>xbridge</hi> 15 <hi>miles, to Beconsfield</hi> 7 <hi>miles, to VVickham</hi> 5 <hi>miles, to Stoken Church</hi> 5 <hi>miles, to Tetſworth</hi> 5 <hi>miles, to VVheatly-bridge</hi> 5 <hi>miles, thence to Oxford</hi> 5 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Oxford to Coventry 44 miles.</head>
+                  <p>
+                     <hi>From Oxford to VVoodſtock</hi> 6 <hi>miles, to Banbury</hi> 14 <hi>miles, to Northampton</hi> 10 <hi>miles, to Coventry</hi> 14 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Oxford to Cambridge 52 miles.</head>
+                  <p>
+                     <hi>From Oxford to Biſciter</hi> 10 <hi>miles, to Buckingham</hi> 9 <hi>miles, to Newport</hi> 8 <hi>miles, to Bedford</hi> 7 <hi>miles, to Gamlinghay</hi> 9 <hi>miles, to Cambridge</hi> 9 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to York 149 miles.</head>
+                  <p>
+                     <hi>From London to VValtham</hi> 12 <hi>miles, to VVare</hi> 8 <hi>miles, to Royſton</hi> 12 <hi>miles, to Huntington</hi> 15 <hi>miles, to Stilton</hi> 9, <hi>to Stamford</hi> 12, <hi>to Grantham</hi> 16, <hi>to Newark</hi> 10, <hi>to Tuxford</hi> 10, <hi>to Doncaſter</hi> 18. <hi>to VVentbridge</hi> 7, <hi>to Tudcaſtor</hi> 12, <hi>then to York</hi> 8 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="15" facs="tcp:171868:8"/>
+                  <head>From York to Barwick 96 miles.</head>
+                  <p>
+                     <hi>From York to Topcliff</hi> 17 <hi>miles, to Northalerton</hi> 7, <hi>to Dorington</hi> 10, <hi>to Durham</hi> 14, <hi>to Newcaſtle</hi> 12, <hi>to Morpi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 12, <hi>to Anwick</hi> 12, <hi>to Belford</hi> 12 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Cambridge to York 114 miles.</head>
+                  <p>
+                     <hi>From Cambridge to Huntington</hi> 12 <hi>miles, to Stilton</hi> 9, <hi>to Stamford</hi> 12, <hi>to Grantham</hi> 16, <hi>to Newark</hi> 10, <hi>to Tuxford</hi> 10, <hi>to Doncaſter</hi> 18, <hi>to VVentbridge</hi> 7, <hi>to to Tadcaſter</hi> 12, <hi>then to York</hi> 8 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Oxford to York 118 miles.</head>
+                  <p>
+                     <hi>From Oxford to Banbury</hi> 11 <hi>mil: to Weedon</hi> 10, <hi>to Wel<g ref="char:EOLhyphen"/>ford</hi> 14, <hi>to Leiceſter</hi> 12, <hi>to Mountſorrel</hi> 5, <hi>to Nottingham</hi> 11, <hi>to Mansfield</hi> 12, <hi>to Doncaſter</hi> 20, <hi>thence to York</hi> 27 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Shrewſbury to York 103 miles.</head>
+                  <p>
+                     <hi>From Shrewsbury to Price</hi> 12 <hi>miles, to VVhitchurch</hi> 4, <hi>to Beeſton-wood</hi> 10, <hi>to Norwich</hi> 9, <hi>to Mancheſter</hi> 16, <hi>to Rochdale</hi> 8, <hi>to Blackston-edge</hi> 6, <hi>to Hallifax</hi> 6, <hi>to Bradford</hi> 6, <hi>to Otley</hi> 6, <hi>to Weatherhy</hi> 13, <hi>to York</hi> 7 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Nottingham to York 59 miles.</head>
+                  <p>
+                     <hi>From Nottingham to Mansfield</hi> 12 <hi>miles, to Don<g ref="char:EOLhyphen"/>caſter</hi> 20, <hi>then to York</hi> 27 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Norwich 95 miles.</head>
+                  <p>
+                     <hi>From London to Barkway</hi> 32 <hi>miles, to VVichford-bridge</hi> 10, <hi>to New-Market</hi> 12, <hi>to Icklingham-ſands</hi> 10, <hi>to Thetford</hi> 6, <hi>to Attleborough</hi> 10, <hi>to VVindham</hi> 10, <hi>thence to Norwich</hi> 5 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Walſingham 86 miles.</head>
+                  <p>
+                     <hi>From London to VVare</hi> 20 <hi>miles, to New-Market</hi> 34, <hi>to Brandon-Ferry</hi> 10, <hi>to Dickham</hi> 10, <hi>thence to VVal<g ref="char:EOLhyphen"/>ſingham</hi> 12 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Yarmouth 92 miles.</head>
+                  <p>
+                     <hi>From London to Rumford</hi> 10 <hi>miles, to Brentwood</hi> 6, <hi>to Engerſton</hi> 5, <hi>to Chelmsford</hi> 5, <hi>to Kelveden</hi> 10, <hi>to Colcheſter</hi> 7, <hi>to Ipſwich</hi> 12, <hi>to VVoodbridge</hi> 7, <hi>to Snap-bridge</hi> 6, <hi>to Blid<g ref="char:EOLhyphen"/>nos</hi> 8, <hi>to Leidaff</hi> 10, <hi>then to Yarmouth</hi> 6 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Lincoln 99 miles.</head>
+                  <p>
+                     <hi>From London to Stilton</hi> 58 <hi>miles, to Gunworth-Fer<g ref="char:EOLhyphen"/>ry</hi>
+                     <pb n="16" facs="tcp:171868:9"/>4, <hi>to VVeſt-deeping</hi> 5, <hi>to Bourn</hi> 5, <hi>to Sleeford</hi> 13, <hi>then to Lincoln</hi> 14 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Another way 106 miles.</head>
+                  <p>
+                     <hi>From London to Stilton</hi> 58 <hi>miles, to Stamford</hi> 12, <hi>to Bitsfield</hi> 12, <hi>to Ancaſter</hi> 8, <hi>then to Lincoln</hi> 16 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Boſton 94 miles.</head>
+                  <p>
+                     <hi>From London to Stilton</hi> 58 <hi>miles, to Gunworth-Ferry</hi> 4, <hi>to VVeſt-deeping</hi> 5, <hi>to Bourn</hi> 5, <hi>then to Boſton</hi> 22 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Nottingham 98 miles.</head>
+                  <p>
+                     <hi>From London to Barnet</hi> 10 <hi>miles, to St. Albans</hi> 10, <hi>to Dunſtable</hi> 10, <hi>to Brickhil</hi> 7, <hi>to Stoniſtratford</hi> 7, <hi>to Northampton</hi> 10, <hi>to Harborough</hi> 10, <hi>tt Leiceſter</hi> 12, <hi>to Loughborough</hi> 8, <hi>then to Nottingham</hi> 8 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Coventry to Cheſter 68 miles.</head>
+                  <p>
+                     <hi>From Coventry to Coleſil</hi> 8 <hi>miles, to Lichfield</hi> 12, <hi>to Stone</hi> 18, <hi>to VVich</hi> 15, <hi>then to Cheſter</hi> 15 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Coventry 74 miles.</head>
+                  <p>
+                     <hi>From London to Stony-Stratford</hi> 44 <hi>miles, to Toceter</hi> 6, <hi>to Daventry</hi> 10, <hi>then to Coventry</hi> 14 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Norwich to Yarmouth 16 miles.</head>
+                  <p>
+                     <hi>From Norwich to Ockhill</hi> 8 <hi>mil: thence to Yarmouth</hi> 8.</p>
+               </div>
+               <div type="section">
+                  <head>From London to Lancaſter 180 miles.</head>
+                  <p>
+                     <hi>From London to Coventry</hi> 74 <hi>miles, to Lichfield</hi> 20, <hi>to New-caſtle</hi> 20, <hi>to VVarrington</hi> 20, <hi>to VVigan</hi> 12, <hi>to Freſton</hi> 14, <hi>then to Lancaſter</hi> 20 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Ludlow 106 miles.</head>
+                  <p>
+                     <hi>From London to Wickham</hi> 27 <hi>miles, to Iſlip</hi> 20, <hi>to Chippingnorton</hi> 12, <hi>to Eviſham</hi> 14, <hi>to Worceſter</hi> 12, <hi>to Tenbury</hi> 16, <hi>then to Ludlow</hi> 5 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Kings-Lynn to London 74 miles.</head>
+                  <p>
+                     <hi>From Kings-Lynn to Downham</hi> 8 <hi>miles, to Southrey-Ferry</hi> 8, <hi>to Little-Port</hi> 4, <hi>to Ely</hi> 4, <hi>to Cambridge</hi> 10, <hi>to Fulmire</hi> 6, <hi>to Barkway</hi> 6, <hi>to Puckridge</hi> 7, <hi>to Ware</hi> 5, <hi>to Waltham</hi> 8, <hi>to London</hi> 12 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From Lynn to Norwich 30 miles.</head>
+                  <p>
+                     <hi>From Lyn to Gyton</hi> 5 <hi>mil: to Licham</hi> 8, <hi>to Billingford</hi> 6, <hi>to Baudſwell</hi> 1, <hi>to Attle-bridge</hi> 4, <hi>then to Norwich</hi> 6 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="17" facs="tcp:171868:9"/>
+                  <head>From Coventry to Shrewſbury 44 miles.</head>
+                  <p>
+                     <hi>From Coventry to Meriden</hi> 4 <hi>miles, to Bremicham</hi> 10, <hi>to Wolverhampton</hi> 10, <hi>to Bonigal</hi> 5, <hi>to Sheſual</hi> 3, <hi>to Watling-ſtreet</hi> 5, <hi>then to Shrewsberay</hi> 7 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Worceſter, and ſo to Ludlow 106 m.</head>
+                  <p>
+                     <hi>From London to Wickham</hi> 27 <hi>miles, to Iſlip</hi> 20, <hi>to Chippingnorton</hi> 12, <hi>to Eviſham</hi> 14, <hi>to Worceſter</hi> 12, <hi>to Tenbury</hi> 16, <hi>then to Ludlow</hi> 5 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Briſtol 97 miles.</head>
+                  <p>
+                     <hi>From London to Colebrook</hi> 15 <hi>miles, to Redding</hi> 14, <hi>to Newberry</hi> 10, <hi>to Marleborough</hi> 23, <hi>to Chipnam</hi> 15, <hi>to Morfield</hi> 10, <hi>then to Briſtol</hi> 10 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to Exeter 138 miles.</head>
+                  <p>
+                     <hi>From London to Stanes</hi> 15 <hi>miles, to Hartlerow</hi> 16, <hi>to Baſingſtoke</hi> 8, <hi>to Andover</hi> 16, <hi>to Salisbury</hi> 16, <hi>to Shaftsbury</hi> 18, <hi>to Sherborn</hi> 12, <hi>to Chard</hi> 16, <hi>to Honi<g ref="char:EOLhyphen"/>ton</hi> 10, <hi>then to Exeter</hi> 12 <hi>miles.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From London to St. Davids 202 miles.</head>
+                  <p>
+                     <hi>From London to Maidenhead</hi> 22 <hi>mil. to Dorcheſter</hi> 19, <hi>to Abington</hi> 5, <hi>to Farington</hi> 10, <hi>to Ciceter</hi> 12, <hi>to Glo<g ref="char:EOLhyphen"/>ceſter</hi> 15, <hi>to Roſs</hi> 12, <hi>to Hereford</hi> 8, <hi>to Brecknock</hi> 24, <hi>to Lanbury</hi> 16, <hi>to Newton</hi> 10, <hi>to Carmarthen</hi> 12, <hi>to Ar<g ref="char:EOLhyphen"/>ſhad</hi> 34, <hi>thence to St. Davids</hi> 12 <hi>miles.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Names of the Principal Fairs in ENGLAND.</head>
+               <p>
+                  <hi>January.</hi> The 5 d. at Hicetford in Lancaſhire, 6: at Saliſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry tueſ. after at Melton-mowbray, thurſ. af<g ref="char:EOLhyphen"/>ter at Banbury: 3 tu. at Potton: 25 d. at Graveſend Briſtol, Churchinford, Northallerton in Yorkſhire, every wed. from Chriſtmas till June.</p>
+               <p>
+                  <hi>February.</hi> The 1 d. at Bromley in Lancaſhire, 2 d. at Reading in Barkſhire, at Maidſton, Bickleſworth, Bicklesfield, Bath, Lyn, Bugworth: 6 d. at Stafford for 6 days: 14 d. at Oundle, Feverſham: 24 d. at Henly upon Thames, Baldock: On Aſhwed. at Royſton, Dun<g ref="char:EOLhyphen"/>ſtable,
+<pb n="18" facs="tcp:171868:10"/>Eaton, Tamworth, Tunbridge, Lichfield, Exeter, Ciceter: 1 th. in Lent at Banbury: 26 d. at Stanford.</p>
+               <p>
+                  <hi>March.</hi> The 3 d. at Bromel-brakes in Norfolk: 4 d. at Beford, Oakham: 12 d. at Alſome in Norfolk, Sud<g ref="char:EOLhyphen"/>bury, Wooburn, Stanford, Wye: 13 d. at B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dwin in Cornwal: 20 d. at Durham, Alesbury: mon. before our <hi>Lady-day,</hi> at Kendal Wisbich: 25 d. at Huntington, Northampton, Malden, Aſhwel in Hartfordſhire, New<g ref="char:EOLhyphen"/>caſtle, Oney, S. Albans: Midlent-ſat. Saffron-VValden: Palm-ſun. at Wisbich, Worceſter, Pomfret: on Good-fri. at Norwich, the tueſ. before Eaſter at Porton.</p>
+               <p>
+                  <hi>April.</hi> Eaſter-mon. at Oney in Bedfordſhire, Gains<g ref="char:EOLhyphen"/>borough: Eaſter-tu. at Daintry in Northamptonſh. God<g ref="char:EOLhyphen"/>mancheſter, Schole in Norfolk, s. Edmundsbury: on w. at Wellingborough in Northamptonſhire: on fri. the ſame week at Darby: on ſat. at Bickleſworth: 2 d. at Hitchin, Rochford, Northfleet: 5 d. at Wallingford: 7 d. at Derby: 9 d. at Billingſworth, Bickleſworth: 22 d. at Stabford: 23 d. at Ipſwich, Harbin in Norfolk, Northampton, Sapſar in Hartfordſh. Charing, Hinning<g ref="char:EOLhyphen"/>ham, Tamworth, Bury in Lancaſh. S. Pombs in Cornwal, Ampthil, Chicheſter, engfield, gilford, Biſhops-hatfield 25 d. at Buckingham, Bourn in Lincolnſh. Colebrook, Dunmow in Eſſex, Darby, Oakham in Rutlandſh. 29 d. at Tenderden in Kent, Cleet: 30 d. at Beverly, a week.</p>
+               <p>
+                  <hi>May.</hi> The 1 d. at Swaffam, Haveril in Eſſex, Layton-buzzard in Huntingtonſh. Rippon in Yorkſh. Reading, Maidſtone, Chelmsford, Leiceſter, Litchfield, Lexfield in Suffolk, Stow, Stanſtead, Tuxford in the Clay, 3 d. at Elſtow in Bedfordſh. Noneaton in Warwickſh. Thet<g ref="char:EOLhyphen"/>ford in Norfolk, Waltham Abby, Hinningham, Roch<g ref="char:EOLhyphen"/>dale, Bramyard: 6 d. at Almeſbury, Aſhford: 7 d. at Newton in Lancaſh. Beverly, Oxford, Bath: 8 d. at Maidſtone: 11, 12, 13 d. at Applechaw: 19 d. at Ro<g ref="char:EOLhyphen"/>cheſter, Dunſtable, Magfield in Suffolk: on Rogation<g ref="char:EOLhyphen"/>mon. at Reach: on Aſcenſion d. at Thaxted, Beverly, Rippon, Sudminſter, Biſhopſtratford, S. Neots, Wick<g ref="char:EOLhyphen"/>ham
+<pb n="19" facs="tcp:171868:10"/>in Lancaſh. Middlewich in Cheſh. Chappel-Frith in Darbiſh. on Whitſun-even at Skipton in Craven: on Whitſun-mo. at S. Ives, Rygate in Surry, Bickleſworth, Bradford, Agmunſham in Buckinghamſh. on Whitſun<g ref="char:EOLhyphen"/>tu. at Newmarket: on wed. at Royſton: th. at Owndle in Northampt. 26 d. at Lenham: 29 d. at Crainbrook.</p>
+               <p>
+                  <hi>June.</hi> Trinity-even at Rowel, Kendal: on Corpus-Chriſti d. at Banbury, Biſhopſtratford, S. Neots, Coven<g ref="char:EOLhyphen"/>try, Newbury: 3 d. at Aleſbury: 9 d. at Maidſtone: 11 d. at Breme in Norfolk, Bardfield in Eſſex: 17 d. at Had<g ref="char:EOLhyphen"/>ſtock: 23 d. at S. Albans, Deerham in Norfolk, Shrews<g ref="char:EOLhyphen"/>bury: 24 d. at Halſon in Suffolk, Barnwel by Cambridg Bedford, Colcheſter, Hartford, Leiceſter, Rumford, Reading, Windſor, Hallifax, York, Beverly, Haſlingden 26 d. at Briſtol, Darby: 27 d. at Burton on Trent, Fol<g ref="char:EOLhyphen"/>ſtone: 28 at S. Pombs in Cornw. 29 at Peterborough, Aſh<g ref="char:EOLhyphen"/>wel, Sudbury, Stebbing in Eſſex, Benington in Hartford.</p>
+               <p>
+                  <hi>July.</hi> The 1 tueſ. at Potton: 1, 2, 3 days at Congle<g ref="char:EOLhyphen"/>ſtone in Cheſh. 7 d. at Royſton, Burntwood: mon. after at Fodringham, Canterbury: 11 d. at Partney: 17 d. at Stevenage: 20 d. at Uxbridge, Coolidge, Woodſtock: 22 d. at Ickleton, Bickleſworth, Norwich, Colcheſter, Newark on Trent: 25 d. at Audley-end by Walden, Rea<g ref="char:EOLhyphen"/>ding, Baldock, Darby, Dover, Erith, Ipſwich, Stamford.</p>
+               <p>
+                  <hi>Auguſt.</hi> The 1 d. at Bedford, S. Neots, Dunſtable, Fe<g ref="char:EOLhyphen"/>verſham, Wisbich, Bickleſworth, Thaxted: 6 d. at Peter<g ref="char:EOLhyphen"/>borough: 10 d. at Blackmore, Harply in Norfolk, S. Ives, Bedford, Banbury, Farnham, Brainford, Owndle: 15 at Cambridg, Huntington, Dunmow, Luton, Northampton 24 d. at London, Sudbury, Norwich, Oxford, Northal<g ref="char:EOLhyphen"/>lert<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Dover, Beggers-buſh, Burton: 28 d. at Aſhford, Daintry: 29 d. at Halſon in Suffolk, Harlow-Buſh in Eſſex, Watford.</p>
+               <p>
+                  <hi>September.</hi> The 1 d. at S. Giles in the Buſh: on th. fri. before the 8 d. at Sandback in Cheſh. 7, 8, 9, 10 d. at Woodbury-hill in Dorſetſh: 7 at Ware: 8 at Hunting<g ref="char:EOLhyphen"/>ton, Bury in Lancaſh Partney, wakefield, Northampton
+<pb n="20" facs="tcp:171868:11"/>Sturbridge fair begins: 11 at Woolpit in Suff: 14 at Rippon, Waltham-Abby, Cheſterfield in Darbiſh. Rich<g ref="char:EOLhyphen"/>mond: the 21 at Malborough, Bedford, Baldock, S. Ed<g ref="char:EOLhyphen"/>mundsbury, Holden in Holderneſs, Braintry, Brackly-Maiden, Malden, Midnal: 29 at S. Ives, Baſingſtoke, Mar<g ref="char:EOLhyphen"/>ketdeeping, Shelford in Bedfordſh. Biſhopſtratford Malden, Stow in Lincolnſh. S. Albans, Canterbury, Lei<g ref="char:EOLhyphen"/>ceſter, Newbury, VVeſtcheſter, VVeymer for 7 days. thurſ. after at Banbury.</p>
+               <p>
+                  <hi>October.</hi> The 1 d. at Saliſbury 6 at Havent in Hampſ. Maidſtone, Coolidge, Gayworth by Lyn, S. Faiths by Norwich: 8 at Biſhopſtratford, Harborough: 9 Gains<g ref="char:EOLhyphen"/>borough: 13 at windſor, Colcheſter, Graveſend, Hitchin Royſton: tueſ: before S. Luke at Potton: 18 at Ely, Bi<g ref="char:EOLhyphen"/>ſhop-hatfield, Barnet, Banbury, Thriſt, Burton on Trent wellinborough: 21 at Saffron-walden, Coventry: 23 at Bickleſworth: 24, 25, 26 at Applechaw: 28 at New<g ref="char:EOLhyphen"/>market, Hartford, Oxford, Diſs, VVakefield, Stamford, Rochdale in Lancaſhire:</p>
+               <p>
+                  <hi>November:</hi> The 1 d: at Chelmsford: 2 at Epping, Kingſton on Thames, Padamhaſſon in Suffolk: 6 at Newportpond, Bedford, Hartford: 11 at Lodden in Norfolk, Lenton in Nottinghamſh: Hempton, Booking<g ref="char:EOLhyphen"/>ham, Bridgeſtock, Marlborough: 17 at Spalding in Lin<g ref="char:EOLhyphen"/>colaſh: Lincoln, Harlow, Hide, Northampton: 18 at Hor<g ref="char:EOLhyphen"/>ſham in Kent: 20 at S. Edmundſbury, Ingerſton in Eſſex, Heath: 23 at Sandwich: 30 at Baldock, Bareford, Ko<g ref="char:EOLhyphen"/>lingborough, Maidenhead, VVarrington, Rocheſter, VVakefield, York:</p>
+               <p>
+                  <hi>December:</hi> The 1 d: at Tutbury: 5 at Pluckley: 6 at S: Neots, VVoodſtock, Exeter, Spalding, Northwich in Odeſh: Seven-oak in Kent, Arundel, Grantham: 7 at Sandhurſt: 8 at Northampton, Clitheral in Lancaſh: Huntington, Leiceſter, Malpas in Cheſhire: 29 at Can<g ref="char:EOLhyphen"/>terbury, Salisbury.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by <hi>G. Conyers,</hi> at the <hi>Ring</hi> in <hi>Little-Brittain:</hi> Price <hi>2</hi> d.</p>
+            <pb facs="tcp:171868:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
